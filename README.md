@@ -17,3 +17,6 @@ For the fork I made a circle and two things coming out of it, this is the first 
 ### Tire
 [tire](https://cvilleschools.onshape.com/documents/d43e7af70bb7225a9f9300f9/w/f8d8dece1e6f55a921219120/e/dbe68bc4b8b4f6f6502cd653)
 For the tire this I had to make a rectangle and then revolve it, the revolve is a very cool feature on onshape. I also had to put fillets on the edne of the tire to make it look more like a tire, then I changed the color and was done. I didn't have any challenges with this part.
+### Wheel
+[wheel](https://cvilleschools.onshape.com/documents/782790b432309b8bf32051a3/w/a3671807251b084d60fcfda5/e/5c28fd3a1ab9fca542346eab)
+The wheel was kind of challenging for me, the dimensions kept on getting tangled I guess and I just had to go back and do it differently until I got it. I had to make three rectangles and revolve them and then make spokes in a circular pattern then add some fillets.
