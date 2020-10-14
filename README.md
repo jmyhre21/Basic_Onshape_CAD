@@ -20,3 +20,6 @@ For the tire this I had to make a rectangle and then revolve it, the revolve is 
 ### Wheel
 [wheel](https://cvilleschools.onshape.com/documents/782790b432309b8bf32051a3/w/a3671807251b084d60fcfda5/e/5c28fd3a1ab9fca542346eab)
 The wheel was kind of challenging for me, the dimensions kept on getting tangled I guess and I just had to go back and do it differently until I got it. I had to make three rectangles and revolve them and then make spokes in a circular pattern then add some fillets.
+### Axle, Collar Bearings
+[Axle, Collar, Bearings](https://cvilleschools.onshape.com/documents/318a6b7d0bf89a3a1e42aae0/w/aab806db89c28408d1605123/e/4615d72c36bf873a6cc29539)
+For this I had to make a circle and extrude it then make cut then the collar and the bearing. I had a little bit of trouble with the the bearing cut but then i got it after re-watching the video.
