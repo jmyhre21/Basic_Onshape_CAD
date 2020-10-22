@@ -23,3 +23,9 @@ The wheel was kind of challenging for me, the dimensions kept on getting tangled
 ### Axle, Collar Bearings
 [Axle, Collar, Bearings](https://cvilleschools.onshape.com/documents/318a6b7d0bf89a3a1e42aae0/w/aab806db89c28408d1605123/e/4615d72c36bf873a6cc29539)
 For this I had to make a circle and extrude it then make cut then the collar and the bearing. I had a little bit of trouble with the the bearing cut but then i got it after re-watching the video.
+### Pre-assembly
+[Pre-assembly](https://cvilleschools.onshape.com/documents/2f0fcb21660ead11e0bf0be0/w/9036fa6345663a4cb1cb835c/e/6055ae26c9e06f9535650864)
+For the pre assembly it was pretty easy because of the onshape fundemental assembly really made it easy to get used to putting parts together, I had to put togeth the wheel, tire, axle, and bearngs.
+### Final
+[Final Aseembly](https://cvilleschools.onshape.com/documents/76369cea21453497a549a15a/w/aa486f79b5de9829a496e6c9/e/105ec8a3546a2780b316bc54)
+For the final assembly I had to put all the parts together that we have made, some of the parts took some fidgeting with to get in the right spot but it did not take very long. I liked how it turned out and it was very helpful to already have the screws pre made.
